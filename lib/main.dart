@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:fireflutter/firebase_options.dart';
-import 'package:fireflutter/login_page.dart';
-import 'package:fireflutter/main_page.dart';
+// import 'package:fireflutter/pages/login_page.dart';
+import 'package:fireflutter/auth/main_page.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
